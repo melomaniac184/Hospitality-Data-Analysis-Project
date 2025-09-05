@@ -16,8 +16,6 @@ The dashboard highlights performance metrics, identifies underperforming propert
 
 ![Dashboard Screenshot](images/dashboard_image_hospitality.png)
 
-> *(Make sure the image file is inside `images/` folder and named exactly `dashboard_image_hospitality.png`)*
-
 ---
 
 ## 🛠 Tools & Tech Used
