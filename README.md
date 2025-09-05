@@ -14,9 +14,9 @@ The dashboard highlights performance metrics, identifies underperforming propert
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](images/dashboard_image_hospitality.png)
 
-> *(Make sure the image file is inside `images/` folder and named exactly `dashboard_preview.png`)*
+> *(Make sure the image file is inside `images/` folder and named exactly `dashboard_image_hospitality.png`)*
 
 ---
 
@@ -71,4 +71,3 @@ This dashboard enables AtliQ Grands to:
 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-avale-49a35826b) | [GitHub](https://github.com/melomaniac184)
 
 ---
-
