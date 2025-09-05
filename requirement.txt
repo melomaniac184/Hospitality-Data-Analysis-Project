@@ -1,0 +1,6 @@
+Power BI Desktop (Free Download: Microsoft Power BI
+)
+
+(Optional) Excel if you want to view the raw dataset before it was loaded into Power BI
+
+Basic understanding of hotel industry KPIs (RevPAR, ADR, Occupancy%) to interpret the dashboard effectively
